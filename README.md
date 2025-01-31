@@ -1,5 +1,4 @@
 # DCC078-exerc3
-Criar uma aplicação que integre os padrões de projeto State e Observer. Construir os diagramas de classe e de estados. Codificar os casos de teste
 
 <img width="1188" alt="Screenshot 2025-01-31 at 19 47 45" src="https://github.com/user-attachments/assets/c1f4ef74-1cb3-4b3b-91df-163696c2b89c" />
 
