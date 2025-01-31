@@ -4,10 +4,10 @@ import java.util.Observable;
 
 public class OrdemServico extends Observable {
     private String descricao;
-    private float valor;
+    private double valor;
     private String estado;
 
-    public OrdemServico(String descricao, float valor, String estado) {
+    public OrdemServico(String descricao, double valor, String estado) {
         this.descricao = descricao;
         this.valor = valor;
         this.estado = estado;
